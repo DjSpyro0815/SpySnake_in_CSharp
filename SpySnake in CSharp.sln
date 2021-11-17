@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpySnake in CSharp", "SpySnake in CSharp\SpySnake in CSharp.csproj", "{4FFCFD6A-B827-4AF5-9B3D-19754E26BE47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFCFD6A-B827-4AF5-9B3D-19754E26BE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFCFD6A-B827-4AF5-9B3D-19754E26BE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFCFD6A-B827-4AF5-9B3D-19754E26BE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFCFD6A-B827-4AF5-9B3D-19754E26BE47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D03C71A-9EED-45EC-8C9B-BA2E2B57BFEB}
+	EndGlobalSection
+EndGlobal
